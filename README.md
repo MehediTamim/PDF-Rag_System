@@ -42,6 +42,17 @@ This project follows **Domain-Driven Design (DDD)** principles with clean separa
 └── logs/                # Application logs (auto-generated)
 ```
 
+## 🖼️ Diagrams & UI
+
+### System Architecture
+![System Architecture](./images/Agent_Architrecture.png)
+
+### Ingestion Pipeline
+![Ingestion Pipeline](./images/Ingestion_pipeline.png)
+
+### Application UI
+![Application UI](./images/system_UI.png)
+
 ## ✨ Features
 
 - **PDF Processing**: Extract and process PDFs using Google Gemini Vision API
